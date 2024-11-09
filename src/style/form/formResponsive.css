@@ -1,0 +1,27 @@
+/* @media only screen and (max-width: 1400px) {
+
+} */
+
+@media only screen and (max-width: 1199px) {
+
+}
+
+@media only screen and (max-width: 991px) {
+}
+
+@media only screen and (max-width: 767px) {
+}
+
+@media only screen and (max-width: 576px) {
+    .form-section {
+        width: 400px;
+    }
+}
+
+@media only screen and (max-width: 459px) {
+    .form-section {
+        width: 340px;
+    }
+}
+
+@media only screen and (max-width: 379px) {}
